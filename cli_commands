@@ -1,0 +1,8 @@
+pip install [PACKAGE]
+pip install -r .\requirements.txt
+open(filename, "r") - reading
+open(filename, "w") - writing from start
+open(filename, "a") - writing from end
+open(filename, "w+") - reading/writing from start
+open(filename, "a+") - reading/writing from end
+
